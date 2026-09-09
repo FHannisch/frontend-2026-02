@@ -1,0 +1,60 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Pesquisar referências bibliográficas",
+      "status": "a-fazer",
+      "prioridade": "alta",
+      "prazo": "15/08/2026"
+    },
+    {
+      "id": 2,
+      "titulo": "Criar repositório no GitHub",
+      "status": "a-fazer",
+      "prioridade": "media",
+      "prazo": "10/08/2026"
+    },
+    {
+      "id": 3,
+      "titulo": "Escrever introdução do artigo",
+      "status": "em-andamento",
+      "prioridade": "alta",
+      "prazo": "20/08/2026"
+    },
+    {
+      "id": 4,
+      "titulo": "Estruturar HTML da Interface",
+      "status": "em-andamento",
+      "prioridade": "alta",
+      "prazo": "11/08/2026"
+    },
+    {
+      "id": 5,
+      "titulo": "Revisar cálculo de amostragem",
+      "status": "em-revisao",
+      "prioridade": "media",
+      "prazo": "14/08/2026"
+    },
+    {
+      "id": 6,
+      "titulo": "Verificar citações ABNT",
+      "status": "em-revisao",
+      "prioridade": "baixa",
+      "prazo": "16/08/2026"
+    },
+    {
+      "id": 7,
+      "titulo": "Definir tema da pesquisa",
+      "status": "concluida",
+      "prioridade": "alta",
+      "prazo": "01/08/2026"
+    },
+    {
+      "id": 8,
+      "titulo": "Ler capítulo 2 do livro-texto",
+      "status": "concluida",
+      "prioridade": "baixa",
+      "prazo": "05/08/2026"
+    }
+  ]
+}
